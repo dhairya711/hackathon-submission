@@ -4,48 +4,7 @@ This repository highlights my involvement in various national and collegiate hac
 
 ---
 
-## 1. FreelanceConnect  
-**Hackathon**: Smart India Hackathon 2023  
-**Stage**: Advanced to Round 2  
-**Domain**: Gig Economy, Workforce Enablement
-
-**Overview**:  
-FreelanceConnect was proposed as a localized freelancing platform that connects individuals with verified professionals for short-term services and skill-based projects.
-
-**Key Features**:
-- Regional service discoverability
-- Skill verification and rating system
-- Real-time availability and secure communication
-
-**My Contributions**:
-- Platform architecture and role-based workflow design
-- Defined user journeys and system logic
-- Assisted in preparing the technical pitch for Round 2 submission
-
----
-
-## 2. SmartMap+  
-**Hackathon**: Smart India Hackathon 2023  
-**Stage**: Advanced to Round 2  
-**Domain**: Smart Mobility, Navigation Systems
-
-**Overview**:  
-SmartMap+ is a feature-rich, context-aware navigation system designed to improve travel planning, especially in low-connectivity or resource-constrained regions.
-
-**Key Features**:
-- Offline map access and downloads
-- Personalized travel suggestions (best time to leave, mode of transport)
-- Battery-optimized route planning
-- Real-time discovery of essential services (e.g., fuel stations, hospitals)
-
-**My Contributions**:
-- Feature ideation and real-world applicability design
-- Flowcharting of service modules and travel logic
-- Collaborative input on interface design and usability scenarios
-
----
-
-## 3. CustomerClap  
+## 1. CustomerClap  
 **Hackathon**: College Hackathon – Finalist  
 **Domain**: Service Booking, Local Commerce
 
@@ -64,7 +23,18 @@ CustomerClap is an enhanced alternative to existing platforms like UrbanClap, of
 
 ---
 
-## 4. Other Hackathon Submissions  
+## 2. HackOn with Amazon - Season 5 
+**Format**: Idea-based and PPT-submission rounds 
+**Outcome**: Qualified till Round 3.
+
+**Experience Gained**:
+- Rapid ideation and problem-solving
+- Preparing structured proposals and business case documents
+- Exposure in domain like urban tech
+
+---
+
+## 3. Other Hackathon Submissions  
 **Format**: Idea-based and PPT-submission rounds  
 **Outcome**: Did not advance past initial screening
 
@@ -77,7 +47,5 @@ CustomerClap is an enhanced alternative to existing platforms like UrbanClap, of
 
 ## Note  
 These projects were developed in team-based or offline environments as part of time-bound competitions. While full codebases are not publicly available, this documentation reflects the scope, complexity, and personal contributions involved in each.
-
-For additional projects, please visit: [https://github.com/tanishhhk](https://github.com/tanishhhk)
 
 ---
