@@ -25,6 +25,7 @@ CustomerClap is an enhanced alternative to existing platforms like UrbanClap, of
 
 ## 2. HackOn with Amazon - Season 5 
 **Format**: Idea-based and PPT-submission rounds 
+
 **Outcome**: Qualified till Round 3.
 
 **Experience Gained**:
